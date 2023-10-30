@@ -18,6 +18,9 @@
       "description": "Put your github username here.",
       "required": true
     },
+  "MONGODB_URI": {
+    "description": "GIVE MONGODB URL(Required)"
+    },
     "GITHUB_AUTH_TOKEN": {
       "description": "Put your github authtoken here.",
       "required": true

@@ -68,7 +68,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MR-KALINDU/KALINDU-MD&template=https://github.com/MR-KALINDU/KALINDU-MD.git)
 
 <br>
 

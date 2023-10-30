@@ -1,6 +1,7 @@
-FROM quay.io/suhailtechinfo/suhail-v2
-RUN git https://github.com/MR-KALINDU/KALINDU-MD /root/MR-KALINDU/
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/MR-KALINDU/KALINDU-MD /root/MR-KALINDU
 WORKDIR /root/MR-KALINDU/
+RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
-CMD ["npm","start","yarn" ]
+CMD ["npm", "start"]

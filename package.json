@@ -5,7 +5,7 @@
 "restart": "pm2 restart kalindu-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/sampandey001/baileys",
+"@whiskeysockets/baileys": "git+https://github.com/kaveesha-sithum/kaveesha-baileys.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "jspdf": "^2.5.1",
 "pino": "^7.0.5",
